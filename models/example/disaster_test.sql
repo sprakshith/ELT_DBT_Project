@@ -1,0 +1,1 @@
+SELECT * FROM `rsp-data-engineering-ii.eu_disaster.CPI`
