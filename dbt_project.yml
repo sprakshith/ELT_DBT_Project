@@ -39,3 +39,9 @@ models:
   my_new_project:
     RSP:
       +materialized: view
+    SRK:
+      +materialized: view
+    NM:
+      +materialized: view
+    PBS:
+      +materialized: view
